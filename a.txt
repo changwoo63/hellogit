@@ -2,6 +2,8 @@
 
 atom editor
 
+atom e
+
 
 atom editor2
 atom editor3
